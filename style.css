@@ -1,36 +1,33 @@
  @charset "UTF-8";
 
  body {
- background-color : #000000;
- font-family : Georgia, "Times New Roman", Times, serif;
+ background-color : #ffffff;
+ font-family : Arial, Helvetica, sans-serif;
  font-size : 100%;
- color : #ffffff;
+ color : #000000;
  margin : 0;
  padding : 0;
- text-align : center;
  }
 
  h1 {
- font-family : Georgia, "Times New Roman", Times, serif;
- font-size : 16px;
- color : #ffffff;
+ font-family : Arial, Helvetica, sans-serif;
+ font-size : 20px;
+ color : #000000;
  font-style : normal;
- font-weight : normal;
- letter-spacing : 0.1em;
+ font-weight : bold;
  }
 
  h2 {
- font-family : Georgia, "Times New Roman", Times, serif;
- font-size : 12px;
- font-style : italic;
+ font-family : Arial, Helvetica, sans-serif;
+ font-size : 16px;
+ font-style : normal;
  font-weight : bold;
- color : #ffffff;
- text-decoration : underline;
+ color : #000000;
  }
 
  p {
- font-family : Georgia, "Times New Roman", Times, serif;
+ font-family : Arial, Helvetica, sans-serif;
  font-size : 12px;
  font-style : normal;
- color : #ffffff;
+ color : #000000;
  }
